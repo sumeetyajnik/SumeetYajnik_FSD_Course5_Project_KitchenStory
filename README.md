@@ -18,4 +18,4 @@ This will start the backend server at [http://localhost:3001](http://localhost:3
 Now, to start the frontend react server, navigate to the root folder 'SumeetYajnik_FSD_Course5_Project_KitchenStory', open the terminal there and then run 'npm start' command.<br />
 This will start the frontend server at [http://localhost:3000](http://localhost:3000)
 
-Database used : Mongo DB
+Database used : MongoDB
