@@ -1,6 +1,6 @@
 # Phase4Project-KitchenStory
-App Name : KitchenStory.com
-App Description : Kitchen Story is an e-commerce portal that lets people shop basic food items on their website.
+App Name : KitchenStory.com <br />
+App Description : Kitchen Story is an e-commerce portal that lets people shop basic food items on their website. <br />
 Developer Name : Sumeet Yajnik
 
 ## Available Scripts
