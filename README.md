@@ -29,14 +29,14 @@ This will start the frontend server at [http://localhost:3000](http://localhost:
 Database used : MongoDB
 Code Language : node.js
 
-Sprint 1 ( 1week)
-		1. Create and Setup Mongo DB
-		1. Install all the required tool for node.js project
-		2. Understand the functional requirement.
-	Sprint 2
-		3. Start with the coding in the App.
-        4. Make sure all use cases are covered
-	Sprint 3
-		5. Do regression testing of the app and make sure all works fine.
+Sprint 1 : <br />
+		1. Create and Setup Mongo DB <br />
+		1. Install all the required tool for node.js project <br />
+		2. Understand the functional requirement. <br />
+Sprint 2 <br />
+		3. Start with the coding in the App. <br />
+                4. Make sure all use cases are covered. <br />
+Sprint 3 <br />
+		5. Do regression testing of the app and make sure all works fine. <br />
 
     
