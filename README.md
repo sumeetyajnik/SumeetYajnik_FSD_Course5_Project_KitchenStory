@@ -31,12 +31,12 @@ Code Language : node.js
 
 Sprint 1 : <br />
 		1. Create and Setup Mongo DB <br />
-		1. Install all the required tool for node.js project <br />
-		2. Understand the functional requirement. <br />
+		2. Install all the required tool for node.js project <br />
+		3. Understand the functional requirement. <br />
 Sprint 2 <br />
-		3. Start with the coding in the App. <br />
-                4. Make sure all use cases are covered. <br />
+		4. Start with the coding in the App. <br />
+                5. Make sure all use cases are covered. <br />
 Sprint 3 <br />
-		5. Do regression testing of the app and make sure all works fine. <br />
+		6. Do regression testing of the app and make sure all works fine. <br />
 
     
