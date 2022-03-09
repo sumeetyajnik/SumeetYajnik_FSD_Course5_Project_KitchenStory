@@ -3,6 +3,14 @@ App Name : KitchenStory.com <br />
 App Description : Kitchen Story is an e-commerce portal that lets people shop basic food items on their website. <br />
 Developer Name : Sumeet Yajnik
 
+# Features of KitchenStory.com 
+1. Have Login option with change of password.
+2. Add new food items with details like : Name, Branch, Category, Price.
+3. Edit the existing item.
+4. Show the existing item.
+5. Purchase option.
+6. Delete any item.
+
 ## Available Scripts
 
 ### `npm install`
@@ -19,3 +27,6 @@ Now, to start the frontend react server, navigate to the root folder 'SumeetYajn
 This will start the frontend server at [http://localhost:3000](http://localhost:3000)
 
 Database used : MongoDB
+Code Language : node.js
+
+    
